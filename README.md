@@ -17,9 +17,9 @@
 
 ### My Socials
 
-[<img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white"/>]["https://discord.gg/318770923370971137"]
-[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/>]["https://www.youtube.com/@LindholmDK"]
-[<img src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=Twitch&logoColor=white"/>]["https://www.twitch.tv/lindholmb"]
+[<img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white"/>](https://discord.gg/318770923370971137)
+[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/>](https://www.youtube.com/@LindholmDK)
+[<img src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=Twitch&logoColor=white"/>](https://www.twitch.tv/lindholmb)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lindholmdk&label=Profile%20views&color=0e75b6&style=flat" alt="lindholmdk" /> </p>
