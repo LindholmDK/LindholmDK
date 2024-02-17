@@ -3,7 +3,7 @@
 ### Hello, I'm Lindholm
 
 
-![Anurag's GitHub stats](https://github-readme-stats-ten-opal-59.vercel.app/api?username=lindholmdk&show_icons=true&theme=onedark&hide_border=true)
+![Lindholm's GitHub stats](https://github-readme-stats.vercel.app/api?username=lindholmdk&theme=dark&show_icons=true&layout=compact&hide_border=true)
 
 #### Programming Languages
 ![](https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=JavaScript&logoColor=yellow)
