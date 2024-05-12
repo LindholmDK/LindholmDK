@@ -3,8 +3,6 @@
 ### Hello, I'm Lindholm
 
 
-![Lindholm's GitHub stats](https://github-readme-stats.vercel.app/api?username=lindholmdk&theme=dark&show_icons=true&layout=compact&hide_border=true)
-
 #### Programming Languages
 ![](https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![](https://img.shields.io/badge/React-222222?style=for-the-badge&logo=React&logoColor=white)
